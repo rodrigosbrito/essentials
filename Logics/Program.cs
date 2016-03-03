@@ -35,7 +35,7 @@ namespace Logics
             {
                 Console.WriteLine("Enter number 1 \n");
                 int range1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Enter number 2 \n");
+                Console.WriteLine("Enter number 2 \n"); 
                 int range2 = Convert.ToInt32(Console.ReadLine());
 
                 for (int i = range1; i <= range2; i++)
