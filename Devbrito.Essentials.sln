@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{3CFEC67D-A64E-4454-A245-2510CF984329}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendGmail", "..\SendGmail\SendGmail.csproj", "{C4BDCD61-C2CF-4D5F-95AD-2B5E3A187623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logics", "Logics\Logics.csproj", "{0518CDC5-65C5-4359-87CC-2D83E0D903EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{3CFEC67D-A64E-4454-A245-2510CF984329}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CFEC67D-A64E-4454-A245-2510CF984329}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CFEC67D-A64E-4454-A245-2510CF984329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BDCD61-C2CF-4D5F-95AD-2B5E3A187623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BDCD61-C2CF-4D5F-95AD-2B5E3A187623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BDCD61-C2CF-4D5F-95AD-2B5E3A187623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BDCD61-C2CF-4D5F-95AD-2B5E3A187623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0518CDC5-65C5-4359-87CC-2D83E0D903EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0518CDC5-65C5-4359-87CC-2D83E0D903EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0518CDC5-65C5-4359-87CC-2D83E0D903EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0518CDC5-65C5-4359-87CC-2D83E0D903EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
