@@ -12,7 +12,7 @@ namespace Logics
         static void Main(string[] args)
         {
             //1-Odd-Even
-            //2-Check Vowel
+            //2-Check Vow el
             //3-Count Vowels and Consonants
             //4-Leap Year
             //5-Factorial
