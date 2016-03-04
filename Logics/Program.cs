@@ -11,7 +11,7 @@ namespace Logics
     {
         static void Main(string[] args)
         {
-            //1-Odd-Even erro
+            //1-Odd-Even
             //2-Check Vowel
             //3-Count Vowels and Consonants
             //4-Leap Year
